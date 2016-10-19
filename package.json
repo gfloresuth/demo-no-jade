@@ -1,0 +1,33 @@
+{
+  "name": "demo-no-jade",
+  "version": "1.0.0",
+  "description": "Demo de pug (no jade)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gfloresuth/demo-no-jade.git"
+  },
+  "dependencies":{
+    "express":"latest",
+    "pug":"latest",
+    "body-parser":"latest",
+    "bluebird":"latest"
+  },
+  "keywords": [
+    "pug",
+    "jade",
+    "views",
+    "express",
+    "nodejs"
+  ],
+  "author": "Gustavo Adolfo Flores González",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gfloresuth/demo-no-jade/issues"
+  },
+  "homepage": "https://github.com/gfloresuth/demo-no-jade#readme"
+}
